@@ -438,7 +438,12 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 148,
+=======
+											"left": 36,
+											"top": -96,
+>>>>>>> hw1/chanho
 											"height": 13
 										},
 										{
@@ -449,8 +454,13 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 587,
 											"top": 380,
+=======
+											"left": 531,
+											"top": 332,
+>>>>>>> hw1/chanho
 											"width": 95,
 											"height": 13,
 											"text": "대여소 검색하기"
@@ -464,7 +474,12 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 148,
+=======
+											"left": 36,
+											"top": -96,
+>>>>>>> hw1/chanho
 											"width": 77.9365234375,
 											"height": 13,
 											"text": "(from Model)"
@@ -478,15 +493,25 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 148,
+=======
+											"left": 36,
+											"top": -96,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 582,
 									"top": 373,
+=======
+									"left": 526,
+									"top": 325,
+>>>>>>> hw1/chanho
 									"width": 105,
 									"height": 25,
 									"stereotypeLabel": {
@@ -514,7 +539,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 74,
+=======
+									"left": 18,
+									"top": -48,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -530,7 +560,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 74,
+=======
+									"left": 18,
+									"top": -48,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -546,7 +581,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 74,
+=======
+									"left": 18,
+									"top": -48,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -562,7 +602,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 74,
+=======
+									"left": 18,
+									"top": -48,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -578,7 +623,12 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 74,
+=======
+									"left": 18,
+									"top": -48,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								}
@@ -586,8 +636,13 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
+<<<<<<< HEAD
 							"left": 560,
 							"top": 368,
+=======
+							"left": 504,
+							"top": 320,
+>>>>>>> hw1/chanho
 							"width": 149,
 							"height": 35,
 							"nameCompartment": {
@@ -633,8 +688,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 485,
 									"top": 385,
+=======
+									"left": 469,
+									"top": 362,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -655,8 +715,13 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 483,
 									"top": 370,
+=======
+									"left": 463,
+									"top": 348,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -677,8 +742,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 490,
 									"top": 414,
+=======
+									"left": 482,
+									"top": 389,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -699,8 +769,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 440,
 									"top": 391,
+=======
+									"left": 434,
+									"top": 378,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -721,8 +796,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 441,
 									"top": 378,
+=======
+									"left": 431,
+									"top": 365,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -743,8 +823,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 440,
 									"top": 419,
+=======
+									"left": 441,
+									"top": 405,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -765,8 +850,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 531,
 									"top": 378,
+=======
+									"left": 505,
+									"top": 346,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -786,8 +876,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 527,
 									"top": 365,
+=======
+									"left": 497,
+									"top": 335,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -807,8 +902,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 539,
 									"top": 405,
+=======
+									"left": 520,
+									"top": 370,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -856,7 +956,11 @@
 								"$ref": "AAAAAAGWllJyurDPkd0="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "417:416;559:396",
+=======
+							"points": "417:409;535:356",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWpJ1w7vZrAmk="
@@ -923,7 +1027,11 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 64,
+<<<<<<< HEAD
 											"top": 102,
+=======
+											"top": -10,
+>>>>>>> hw1/chanho
 											"height": 13
 										},
 										{
@@ -935,7 +1043,11 @@
 											"font": "Arial;13;1",
 											"parentStyle": true,
 											"left": 565.5,
+<<<<<<< HEAD
 											"top": 428,
+=======
+											"top": 372,
+>>>>>>> hw1/chanho
 											"width": 108,
 											"height": 13,
 											"text": "상세화면 출력하기"
@@ -950,7 +1062,11 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 64,
+<<<<<<< HEAD
 											"top": 102,
+=======
+											"top": -10,
+>>>>>>> hw1/chanho
 											"width": 77.9365234375,
 											"height": 13,
 											"text": "(from Model)"
@@ -965,7 +1081,11 @@
 											"font": "Arial;13;0",
 											"parentStyle": true,
 											"left": 64,
+<<<<<<< HEAD
 											"top": 102,
+=======
+											"top": -10,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"horizontalAlignment": 1
 										}
@@ -973,7 +1093,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 560.5,
+<<<<<<< HEAD
 									"top": 421,
+=======
+									"top": 365,
+>>>>>>> hw1/chanho
 									"width": 118,
 									"height": 25,
 									"stereotypeLabel": {
@@ -1002,7 +1126,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 32,
+<<<<<<< HEAD
 									"top": 51,
+=======
+									"top": -5,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -1019,7 +1147,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 32,
+<<<<<<< HEAD
 									"top": 51,
+=======
+									"top": -5,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -1036,7 +1168,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 32,
+<<<<<<< HEAD
 									"top": 51,
+=======
+									"top": -5,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -1053,7 +1189,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 32,
+<<<<<<< HEAD
 									"top": 51,
+=======
+									"top": -5,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -1070,7 +1210,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": true,
 									"left": 32,
+<<<<<<< HEAD
 									"top": 51,
+=======
+									"top": -5,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								}
@@ -1079,7 +1223,11 @@
 							"parentStyle": false,
 							"containerChangeable": true,
 							"left": 536,
+<<<<<<< HEAD
 							"top": 416,
+=======
+							"top": 360,
+>>>>>>> hw1/chanho
 							"width": 167,
 							"height": 35,
 							"nameCompartment": {
@@ -1125,8 +1273,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 477,
 									"top": 403,
+=======
+									"left": 473,
+									"top": 383,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1147,8 +1300,13 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 478,
 									"top": 388,
+=======
+									"left": 470,
+									"top": 368,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1169,8 +1327,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 474,
 									"top": 432,
+=======
+									"left": 478,
+									"top": 412,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1191,8 +1354,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 443,
 									"top": 401,
+=======
+									"left": 439,
+									"top": 389,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -1213,8 +1381,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 446,
 									"top": 388,
+=======
+									"left": 439,
+									"top": 376,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -1235,8 +1408,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 437,
 									"top": 428,
+=======
+									"left": 440,
+									"top": 417,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1257,8 +1435,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 509,
 									"top": 405,
+=======
+									"left": 506,
+									"top": 377,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -1278,8 +1461,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 508,
 									"top": 392,
+=======
+									"left": 502,
+									"top": 364,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -1299,8 +1487,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 512,
 									"top": 433,
+=======
+									"left": 516,
+									"top": 403,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1348,7 +1541,11 @@
 								"$ref": "AAAAAAGWllJyurDPkd0="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "417:421;535:428",
+=======
+							"points": "417:415;535:393",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWpJ2jtveCTQ8="
@@ -2524,8 +2721,13 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 528,
 											"top": 160,
+=======
+											"left": 544,
+											"top": 176,
+>>>>>>> hw1/chanho
 											"height": 13
 										},
 										{
@@ -2536,9 +2738,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 644,
 											"top": 796,
 											"width": 99,
+=======
+											"left": 651.5,
+											"top": 804,
+											"width": 98,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "대여소 정보 등록"
 										},
@@ -2551,9 +2759,15 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 528,
 											"top": 160,
 											"width": 77.9365234375,
+=======
+											"left": 544,
+											"top": 176,
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -2566,17 +2780,28 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 528,
 											"top": 160,
+=======
+											"left": 544,
+											"top": 176,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 639,
 									"top": 789,
 									"width": 109,
+=======
+									"left": 646.5,
+									"top": 797,
+									"width": 108.2236328125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqm61Amrtf5g="
@@ -2603,8 +2828,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 264,
 									"top": 80,
+=======
+									"left": 272,
+									"top": 88,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -2620,8 +2850,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 264,
 									"top": 80,
+=======
+									"left": 272,
+									"top": 88,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -2637,8 +2872,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 264,
 									"top": 80,
+=======
+									"left": 272,
+									"top": 88,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -2654,8 +2894,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 264,
 									"top": 80,
+=======
+									"left": 272,
+									"top": 88,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								},
@@ -2671,8 +2916,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 264,
 									"top": 80,
+=======
+									"left": 272,
+									"top": 88,
+>>>>>>> hw1/chanho
 									"width": 10,
 									"height": 10
 								}
@@ -2680,9 +2930,15 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
+<<<<<<< HEAD
 							"left": 616,
 							"top": 784,
 							"width": 155,
+=======
+							"left": 624,
+							"top": 792,
+							"width": 153,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqm61AmrsnfQ="
@@ -2734,7 +2990,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 768,
+=======
+											"left": 752,
+>>>>>>> hw1/chanho
 											"top": 48,
 											"height": 13
 										},
@@ -2746,9 +3006,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 631.5,
 											"top": 868,
 											"width": 156,
+=======
+											"left": 623,
+											"top": 868,
+											"width": 153,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "등록된 대여소 리스트 조회"
 										},
@@ -2761,9 +3027,15 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 768,
 											"top": 48,
 											"width": 77.9365234375,
+=======
+											"left": 752,
+											"top": 48,
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -2776,7 +3048,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 768,
+=======
+											"left": 752,
+>>>>>>> hw1/chanho
 											"top": 48,
 											"height": 13,
 											"horizontalAlignment": 1
@@ -2784,9 +3060,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 626.5,
 									"top": 861,
 									"width": 166,
+=======
+									"left": 618,
+									"top": 861,
+									"width": 163.83544921875,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqm9Mh3VyouA="
@@ -2813,7 +3095,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 384,
+=======
+									"left": 376,
+>>>>>>> hw1/chanho
 									"top": 24,
 									"width": 10,
 									"height": 10
@@ -2830,7 +3116,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 384,
+=======
+									"left": 376,
+>>>>>>> hw1/chanho
 									"top": 24,
 									"width": 10,
 									"height": 10
@@ -2847,7 +3137,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 384,
+=======
+									"left": 376,
+>>>>>>> hw1/chanho
 									"top": 24,
 									"width": 10,
 									"height": 10
@@ -2864,7 +3158,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 384,
+=======
+									"left": 376,
+>>>>>>> hw1/chanho
 									"top": 24,
 									"width": 10,
 									"height": 10
@@ -2881,7 +3179,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 384,
+=======
+									"left": 376,
+>>>>>>> hw1/chanho
 									"top": 24,
 									"width": 10,
 									"height": 10
@@ -2890,9 +3192,15 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
+<<<<<<< HEAD
 							"left": 592,
 							"top": 856,
 							"width": 235,
+=======
+							"left": 584,
+							"top": 856,
+							"width": 231,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqm9Mh3VxaTk="
@@ -2956,9 +3264,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 945.5,
 											"top": 852,
 											"width": 125,
+=======
+											"left": 945,
+											"top": 852,
+											"width": 123,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "대여소 상세정보 조회"
 										},
@@ -2973,7 +3287,11 @@
 											"parentStyle": true,
 											"left": 1072,
 											"top": -320,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -2994,9 +3312,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 940.5,
 									"top": 845,
 									"width": 135,
+=======
+									"left": 940,
+									"top": 845,
+									"width": 134.2236328125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqm9y6HZdH2Q="
@@ -3102,7 +3426,11 @@
 							"containerChangeable": true,
 							"left": 912,
 							"top": 840,
+<<<<<<< HEAD
 							"width": 192,
+=======
+							"width": 189,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqm9y6HZcOK0="
@@ -3147,7 +3475,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 870,
+=======
+									"left": 863,
+>>>>>>> hw1/chanho
 									"top": 872,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3168,7 +3500,11 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 854,
+=======
+									"left": 848,
+>>>>>>> hw1/chanho
 									"top": 840,
 									"width": 53.49169921875,
 									"height": 13,
@@ -3192,7 +3528,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 867,
+=======
+									"left": 862,
+>>>>>>> hw1/chanho
 									"top": 843,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3212,7 +3552,11 @@
 								"$ref": "AAAAAAGWqm9y6HZbFb0="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "911:862;828:867",
+=======
+							"points": "911:862;816:867",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqm/5O4OBAUM="
@@ -3265,9 +3609,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 956,
 											"top": 908,
 											"width": 99,
+=======
+											"left": 955.5,
+											"top": 908,
+											"width": 98,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "대여소 정보 삭제"
 										},
@@ -3282,7 +3632,11 @@
 											"parentStyle": true,
 											"left": -112,
 											"top": -112,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -3303,9 +3657,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 951,
 									"top": 901,
 									"width": 109,
+=======
+									"left": 950.5,
+									"top": 901,
+									"width": 108.2236328125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnDHYKnQ3+I="
@@ -3411,7 +3771,11 @@
 							"containerChangeable": true,
 							"left": 928,
 							"top": 896,
+<<<<<<< HEAD
 							"width": 155,
+=======
+							"width": 153,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnDHYKnPAW8="
@@ -3456,7 +3820,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 875,
+=======
+									"left": 869,
+>>>>>>> hw1/chanho
 									"top": 903,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3477,7 +3845,11 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 857,
+=======
+									"left": 850,
+>>>>>>> hw1/chanho
 									"top": 905,
 									"width": 53.49169921875,
 									"height": 13,
@@ -3501,7 +3873,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 878,
+=======
+									"left": 872,
+>>>>>>> hw1/chanho
 									"top": 874,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3521,7 +3897,11 @@
 								"$ref": "AAAAAAGWqnDHYKnOdbA="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "927:902;828:889",
+=======
+							"points": "927:903;816:888",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnF287lAKpE="
@@ -3555,8 +3935,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 526,
 									"top": 838,
+=======
+									"left": 528,
+									"top": 842,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -3577,8 +3962,13 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 521,
 									"top": 824,
+=======
+									"left": 523,
+									"top": 828,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -3600,7 +3990,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 537,
+<<<<<<< HEAD
 									"top": 867,
+=======
+									"top": 871,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -3621,8 +4015,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 444,
 									"top": 869,
+=======
+									"left": 445,
+									"top": 870,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -3643,8 +4042,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 441,
 									"top": 855,
+=======
+									"left": 443,
+									"top": 857,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -3666,7 +4070,11 @@
 									"font": "Arial;13;0",
 									"parentStyle": false,
 									"left": 449,
+<<<<<<< HEAD
 									"top": 896,
+=======
+									"top": 898,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -3687,8 +4095,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 610,
 									"top": 808,
+=======
+									"left": 612,
+									"top": 815,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -3708,8 +4121,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 603,
 									"top": 797,
+=======
+									"left": 606,
+									"top": 803,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -3729,8 +4147,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 623,
 									"top": 833,
+=======
+									"left": 625,
+									"top": 840,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -3778,7 +4201,11 @@
 								"$ref": "AAAAAAGWllFhvLACdh4="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "425:898;640:820",
+=======
+							"points": "425:899;642:828",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnIXBtQfsA0="
@@ -3837,7 +4264,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 506,
+=======
+									"left": 502,
+>>>>>>> hw1/chanho
 									"top": 874,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3859,7 +4290,11 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 504,
+=======
+									"left": 500,
+>>>>>>> hw1/chanho
 									"top": 859,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -3881,7 +4316,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 509,
+=======
+									"left": 505,
+>>>>>>> hw1/chanho
 									"top": 903,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -3969,7 +4408,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 563,
+=======
+									"left": 555,
+>>>>>>> hw1/chanho
 									"top": 868,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -3990,7 +4433,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 559,
+=======
+									"left": 551,
+>>>>>>> hw1/chanho
 									"top": 855,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -4011,7 +4458,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 570,
+=======
+									"left": 562,
+>>>>>>> hw1/chanho
 									"top": 894,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -4060,7 +4511,11 @@
 								"$ref": "AAAAAAGWllFhvLACdh4="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "425:905;591:886",
+=======
+							"points": "425:905;583:886",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnIqaNePl7A="
@@ -4138,9 +4593,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 652,
 											"top": 932,
 											"width": 99,
+=======
+											"left": 651.5,
+											"top": 932,
+											"width": 98,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "자전거 정보 등록"
 										},
@@ -4155,7 +4616,11 @@
 											"parentStyle": true,
 											"left": 16,
 											"top": -112,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -4176,9 +4641,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 647,
 									"top": 925,
 									"width": 109,
+=======
+									"left": 646.5,
+									"top": 925,
+									"width": 108.2236328125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnI8H9jfUE4="
@@ -4284,7 +4755,11 @@
 							"containerChangeable": true,
 							"left": 624,
 							"top": 920,
+<<<<<<< HEAD
 							"width": 155,
+=======
+							"width": 153,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnI8H9je+lw="
@@ -4630,9 +5105,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 607.5,
 											"top": 996,
 											"width": 156,
+=======
+											"left": 607,
+											"top": 996,
+											"width": 153,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "등록된 자전거 리스트 조회"
 										},
@@ -4647,7 +5128,11 @@
 											"parentStyle": true,
 											"left": -96,
 											"top": -80,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -4668,9 +5153,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 602.5,
 									"top": 989,
 									"width": 166,
+=======
+									"left": 602,
+									"top": 989,
+									"width": 163.83544921875,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnLwofizMNU="
@@ -4776,7 +5267,11 @@
 							"containerChangeable": true,
 							"left": 568,
 							"top": 984,
+<<<<<<< HEAD
 							"width": 235,
+=======
+							"width": 231,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnLwofiyib8="
@@ -4821,7 +5316,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 531,
+=======
+									"left": 530,
+>>>>>>> hw1/chanho
 									"top": 929,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4843,7 +5342,11 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 536,
+=======
+									"left": 535,
+>>>>>>> hw1/chanho
 									"top": 915,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -4865,7 +5368,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 522,
+=======
+									"left": 521,
+>>>>>>> hw1/chanho
 									"top": 958,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -4953,7 +5460,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 608,
+=======
+									"left": 606,
+>>>>>>> hw1/chanho
 									"top": 954,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -4974,7 +5485,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 610,
+=======
+									"left": 608,
+>>>>>>> hw1/chanho
 									"top": 941,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -4995,7 +5510,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 604,
+=======
+									"left": 602,
+>>>>>>> hw1/chanho
 									"top": 982,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -5044,7 +5563,11 @@
 								"$ref": "AAAAAAGWllFhvLACdh4="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "425:917;629:983",
+=======
+							"points": "425:917;627:983",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnUNKQZ2ABc="
@@ -5122,9 +5645,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 945.5,
 											"top": 956,
 											"width": 125,
+=======
+											"left": 945,
+											"top": 956,
+											"width": 123,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "자전거 상세내용 조회"
 										},
@@ -5139,7 +5668,11 @@
 											"parentStyle": true,
 											"left": 208,
 											"top": -144,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -5160,9 +5693,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 940.5,
 									"top": 949,
 									"width": 135,
+=======
+									"left": 940,
+									"top": 949,
+									"width": 134.2236328125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnUtXgfk5jk="
@@ -5268,7 +5807,11 @@
 							"containerChangeable": true,
 							"left": 912,
 							"top": 944,
+<<<<<<< HEAD
 							"width": 192,
+=======
+							"width": 189,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnUtXgfj0dw="
@@ -5332,9 +5875,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 964,
 											"top": 1004,
 											"width": 99,
+=======
+											"left": 963.5,
+											"top": 1004,
+											"width": 98,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "자전거 정보 삭제"
 										},
@@ -5349,7 +5898,11 @@
 											"parentStyle": true,
 											"left": 48,
 											"top": -256,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -5370,9 +5923,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 959,
 									"top": 997,
 									"width": 109,
+=======
+									"left": 958.5,
+									"top": 997,
+									"width": 108.2236328125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnV7KgwXZxs="
@@ -5478,7 +6037,11 @@
 							"containerChangeable": true,
 							"left": 936,
 							"top": 992,
+<<<<<<< HEAD
 							"width": 155,
+=======
+							"width": 153,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnV7KgwWSTo="
@@ -5523,8 +6086,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 858,
 									"top": 987,
+=======
+									"left": 856,
+									"top": 988,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -5544,8 +6112,13 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 825,
 									"top": 963,
+=======
+									"left": 823,
+									"top": 964,
+>>>>>>> hw1/chanho
 									"width": 53.49169921875,
 									"height": 13,
 									"alpha": -1.1955263150680366,
@@ -5568,8 +6141,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 855,
 									"top": 958,
+=======
+									"left": 853,
+									"top": 959,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -5588,7 +6166,11 @@
 								"$ref": "AAAAAAGWqnUtXgfiUy8="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "911:973;804:986",
+=======
+							"points": "911:973;800:987",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnYCfzDiTYE="
@@ -5622,7 +6204,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 868,
+=======
+									"left": 866,
+>>>>>>> hw1/chanho
 									"top": 1013,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -5643,7 +6229,11 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 846,
+=======
+									"left": 844,
+>>>>>>> hw1/chanho
 									"top": 1010,
 									"width": 53.49169921875,
 									"height": 13,
@@ -5667,7 +6257,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 869,
+=======
+									"left": 867,
+>>>>>>> hw1/chanho
 									"top": 984,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -5687,7 +6281,11 @@
 								"$ref": "AAAAAAGWqnV7KgwVXfw="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "935:1007;804:1004",
+=======
+							"points": "935:1007;800:1004",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnYU5TkSKVs="
@@ -5740,9 +6338,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 616.5,
 											"top": 1068,
 											"width": 161,
+=======
+											"left": 616,
+											"top": 1068,
+											"width": 156,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "자전거 대여 정보 전체 조회"
 										},
@@ -5757,7 +6361,11 @@
 											"parentStyle": true,
 											"left": -208,
 											"top": -64,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -5778,9 +6386,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 611.5,
 									"top": 1061,
 									"width": 171,
+=======
+									"left": 611,
+									"top": 1061,
+									"width": 167.447265625,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnZc0ksfqNQ="
@@ -5886,7 +6500,11 @@
 							"containerChangeable": true,
 							"left": 576,
 							"top": 1056,
+<<<<<<< HEAD
 							"width": 242,
+=======
+							"width": 236,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnZc0kseir0="
@@ -5950,9 +6568,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 965,
 											"top": 1068,
 											"width": 104,
+=======
+											"left": 964.5,
+											"top": 1068,
+											"width": 101,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "지역 별 기준 조회"
 										},
@@ -5967,7 +6591,11 @@
 											"parentStyle": true,
 											"left": 80,
 											"top": -32,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -5988,9 +6616,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 960,
 									"top": 1061,
 									"width": 114,
+=======
+									"left": 959.5,
+									"top": 1061,
+									"width": 111.83544921875,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnbBl1ppFmA="
@@ -6096,7 +6730,11 @@
 							"containerChangeable": true,
 							"left": 936,
 							"top": 1056,
+<<<<<<< HEAD
 							"width": 162,
+=======
+							"width": 158,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnbBl1poOEU="
@@ -6160,9 +6798,15 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
+<<<<<<< HEAD
 											"left": 625.5,
 											"top": 1132,
 											"width": 165,
+=======
+											"left": 624.5,
+											"top": 1132,
+											"width": 160,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "대여 금액 및 대여 횟수 조회"
 										},
@@ -6177,7 +6821,11 @@
 											"parentStyle": true,
 											"left": -80,
 											"top": -192,
+<<<<<<< HEAD
 											"width": 77.9365234375,
+=======
+											"width": 73.67724609375,
+>>>>>>> hw1/chanho
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -6198,9 +6846,15 @@
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
+<<<<<<< HEAD
 									"left": 620.5,
 									"top": 1125,
 									"width": 175,
+=======
+									"left": 619.5,
+									"top": 1125,
+									"width": 171.05908203125,
+>>>>>>> hw1/chanho
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGWqnbJuFvRkxE="
@@ -6306,7 +6960,11 @@
 							"containerChangeable": true,
 							"left": 584,
 							"top": 1120,
+<<<<<<< HEAD
 							"width": 248,
+=======
+							"width": 241,
+>>>>>>> hw1/chanho
 							"height": 35,
 							"nameCompartment": {
 								"$ref": "AAAAAAGWqnbJuFvQd2E="
@@ -6351,7 +7009,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 876,
+=======
+									"left": 873,
+>>>>>>> hw1/chanho
 									"top": 1082,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6372,7 +7034,11 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 850,
+=======
+									"left": 847,
+>>>>>>> hw1/chanho
 									"top": 1080,
 									"width": 53.49169921875,
 									"height": 13,
@@ -6396,7 +7062,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 877,
+=======
+									"left": 874,
+>>>>>>> hw1/chanho
 									"top": 1052,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -6416,7 +7086,11 @@
 								"$ref": "AAAAAAGWqnbBl1pnv/w="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "935:1073;819:1073",
+=======
+							"points": "935:1073;813:1073",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqncECmbTUrg="
@@ -6582,7 +7256,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 628,
+=======
+									"left": 626,
+>>>>>>> hw1/chanho
 									"top": 1025,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -6603,7 +7281,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 631,
+=======
+									"left": 629,
+>>>>>>> hw1/chanho
 									"top": 1012,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -6624,7 +7306,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 623,
+=======
+									"left": 621,
+>>>>>>> hw1/chanho
 									"top": 1053,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -6673,7 +7359,11 @@
 								"$ref": "AAAAAAGWllFhvLACdh4="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "425:931;520:1008;648:1055",
+=======
+							"points": "425:931;520:1008;646:1055",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnjpbgjDDFc="
@@ -6864,7 +7554,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 634,
+=======
+									"left": 631,
+>>>>>>> hw1/chanho
 									"top": 1090,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -6885,7 +7579,11 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 636,
+=======
+									"left": 633,
+>>>>>>> hw1/chanho
 									"top": 1077,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -6906,8 +7604,13 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
+<<<<<<< HEAD
 									"left": 629,
 									"top": 1118,
+=======
+									"left": 626,
+									"top": 1117,
+>>>>>>> hw1/chanho
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -6955,7 +7658,11 @@
 								"$ref": "AAAAAAGWllFhvLACdh4="
 							},
 							"lineStyle": 1,
+<<<<<<< HEAD
 							"points": "425:949;512:1072;654:1119",
+=======
+							"points": "425:949;512:1072;651:1119",
+>>>>>>> hw1/chanho
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGWqnleYi/3tT8="
@@ -6991,6 +7698,7 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGWqnleYjABeps="
 							}
+<<<<<<< HEAD
 						},
 						{
 							"_type": "UMLUseCaseView",
@@ -9515,6 +10223,8 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGWqp4OQAEANUk="
 							}
+=======
+>>>>>>> hw1/chanho
 						}
 					]
 				},
@@ -9768,6 +10478,7 @@
 									"$ref": "AAAAAAGWqnbJuFvNEvo="
 								}
 							}
+<<<<<<< HEAD
 						},
 						{
 							"_type": "UMLAssociation",
@@ -9876,6 +10587,8 @@
 									"$ref": "AAAAAAGWqnUtXgfgi8c="
 								}
 							}
+=======
+>>>>>>> hw1/chanho
 						}
 					]
 				},
@@ -9967,6 +10680,7 @@
 									"$ref": "AAAAAAGWpJ3E7/i72Io="
 								}
 							}
+<<<<<<< HEAD
 						},
 						{
 							"_type": "UMLAssociation",
@@ -10075,6 +10789,8 @@
 									"$ref": "AAAAAAGWqpypY9GsnOE="
 								}
 							}
+=======
+>>>>>>> hw1/chanho
 						}
 					]
 				},
@@ -10346,6 +11062,7 @@
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
 					"name": "대여 금액 및 대여 횟수 조회"
+<<<<<<< HEAD
 				},
 				{
 					"_type": "UMLUseCase",
@@ -21003,6 +21720,8 @@
 							}
 						}
 					]
+=======
+>>>>>>> hw1/chanho
 				}
 			]
 		}
